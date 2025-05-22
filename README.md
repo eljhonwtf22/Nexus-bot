@@ -71,6 +71,8 @@ npm start
    ```bash
     npm start
    ```
+<details>
+
 Requisitos❗
 
 Node.js 16 o superior
