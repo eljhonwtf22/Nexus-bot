@@ -73,7 +73,8 @@ npm start
    ```
 
 .
-
+<details>
+ <summary><b>
 Requisitos❗
 
 Node.js 16 o superior
