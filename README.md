@@ -25,6 +25,7 @@ Sigue estos pasos para instalar y ejecutar el bot en Termux:
 ```bash
 termux-setup-storage 
 
+```bash
 pkg update && pkg upgrade
 
 pkg install nodejs
