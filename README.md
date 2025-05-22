@@ -71,7 +71,8 @@ npm start
    ```bash
     npm start
    ```
-<details>
+
+.
 
 Requisitos❗
 
