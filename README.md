@@ -22,10 +22,11 @@ Sigue estos pasos para instalar y ejecutar el bot en Termux:
 
 ### 1. Clona el repositorio
 
-```bash
-termux-setup-storage 
+1. Da permisos de almacenamiento:
 
 ```bash
+termux-setup-storage
+
 pkg update && pkg upgrade
 
 pkg install nodejs
@@ -33,5 +34,8 @@ pkg install nodejs
 git clone https://github.com/eljhonwtf22/Nexus-bot.git
 
 cd Nexus-bot
+
 npm install
+
 node index.js
+
