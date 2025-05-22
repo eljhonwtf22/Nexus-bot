@@ -7,5 +7,5 @@ module.exports = async ({ enviar, m }) => {
         return enviar('🚫  Este comando es solo para mi creador. ¡Intenta otra cosa! 😛');
     }
 
-    enviar('✨👑 ¡Hola, gran amo! Gracias por crearme y darme vida en este mundo digital. Eres el mejor, nunca olvides lo especial que eres para mí 🤖❤️');
+    enviar('✨👑 ¡Hola, gran amo! Gracias por crearmeee y darme vida en este mundo digital. Eres el mejor, nunca olvides lo especial que eres para mí 🤖❤️');
 };
