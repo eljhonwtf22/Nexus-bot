@@ -16,26 +16,59 @@ Bot de WhatsApp creado con la librería [Baileys](https://github.com/WhiskeySock
 
 ---
 
-## Instalación y uso en Termux
+## **`➮ Instalación por termux`**
 
-Sigue estos pasos para instalar y ejecutar el bot en Termux:
+<details>
+ <summary><b> ✎ Click para ver los Comandos </b></summary>
 
-### 1. Clona el repositorio
-
-1. Da permisos de almacenamiento:
-
+😄 **Instalación manual por termux** 😄
+❗Nota: Copie y pegue los comandos en termux uno por uno.
 ```bash
 termux-setup-storage
+```
 
-pkg update && pkg upgrade
+```bash
+apt update && apt upgrade && pkg install -y git nodejs ffmpeg imagemagick yarn
+```
 
-pkg install nodejs
-
+```bash
 git clone https://github.com/eljhonwtf22/Nexus-bot.git
-
+```
+```bash
 cd Nexus-bot
+```
+```bash
+yarn install
+```
 
+```bash
 npm install
+```
 
-node index.js
+```bash
+npm update
+```
 
+```bash
+npm start
+```
+
+> Si aparece (Y/I/N/O/D/Z) [default=N] ? use la letra "y" + "ENTER" para continuar con la instalación
+
+ **Activar en caso de detenerse en termux**
+
+> Si después de instalar el bot en Termux se detiene (pantalla en blanco, pérdida de conexión a Internet, reinicio del dispositivo), sigue estos pasos:
+
+ Abre Termux y navega al directorio del bot:
+   
+   ```bash
+    cd cd Nexus-bot
+   ```cd /sdcard/Nexus-bot
+   ```cd Nexus-bot
+   ```
+
+❒ Inicia el bot nuevamente:
+  
+   ```bash
+    npm start
+   ```
