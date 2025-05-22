@@ -62,8 +62,8 @@ npm start
  Abre Termux y navega al directorio del bot:
    
    ```bash
-      cd Nexus-bot
-   ```cd /sdcard/Nexus-bot
+(1)   cd Nexus-bot
+(2)   cd /sdcard/Nexus-bot
    ```
 
 ❒ Inicia el bot nuevamente:
@@ -71,3 +71,20 @@ npm start
    ```bash
     npm start
    ```
+Requisitos❗
+
+Node.js 16 o superior
+
+WhatsApp con número válido
+
+Conexión a Internet estable
+
+Termux o terminal compatible
+
+Contribuciones 😃
+
+Este bot está en construcción, pero si quieres aportar ideas, reportar bugs o contribuir con código, eres bienvenido/a. Las pull requests serán revisadas con gusto.
+
+Licencia
+
+MIT License © 2025 eljhonwtf22
