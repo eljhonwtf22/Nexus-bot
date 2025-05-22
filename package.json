@@ -1,0 +1,20 @@
+{
+  "name": "Nexus-bot",
+  "version": "1.0.0",
+  "description": "Bot de WhatsApp usando Baileys",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@adiwajshing/baileys": "^6.7.17",
+    "chalk": "^4.1.2",
+    "cfonts": "^2.9.0",
+    "moment-timezone": "^0.5.40",
+    "qrcode-terminal": "^0.12.0",
+    "qrcode": "^1.5.1",
+    "pino": "^8.8.0",
+    "node-cache": "^5.1.2",
+    "axios": "^1.4.0"
+  }
+}
