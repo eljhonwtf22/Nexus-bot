@@ -77,7 +77,7 @@ npm start
 </details>
 
 ---
-### **`➮ Enlaces útiles`** *Requisitos*❗
+### **`➮ *Requisitos*❗`** 
 
 Node.js 16 o superior
 
